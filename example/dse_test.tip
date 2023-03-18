@@ -1,0 +1,13 @@
+main() {
+  var a,b,c,x, y, z;
+  a= 34;
+  b= 12;
+  c= 11;
+  a= 11;
+  b = 11;
+  c = 11;
+  x = 42;
+  y = x + c;
+  z = a +b +c+ x+ y;
+  return z;
+}
